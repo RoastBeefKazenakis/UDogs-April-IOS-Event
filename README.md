@@ -1,1 +1,1 @@
-# UDogs-April-IOS-Event
+# Underdog Devs "Spring Into Swift"
